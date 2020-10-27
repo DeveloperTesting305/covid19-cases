@@ -2,7 +2,7 @@
   "name": "03-corona-cases",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DeveloperTesting305.github.io/covid19-cases",
+  "homepage": "https://github.com/DeveloperTesting305/covid19-cases.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
